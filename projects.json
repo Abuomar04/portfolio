@@ -1,0 +1,62 @@
+[
+  {
+    "id": "school-ksa-vrv",
+    "title": "School (KSA) — VRV System Design",
+    "short_description": "Load analysis, zoning, VRV selection & routing",
+    "description": "Developed the VRV system design for a school facility in KSA using Revit, ensuring full compliance with ASHRAE standards. The design process covered load estimation, pipe and duct network sizing, and proper equipment selection to guarantee system reliability and efficiency. Advanced VRF solutions were implemented, including RefNet Branch Units (RBU) for simultaneous heating and cooling operation across multiple zones, and Hydrokit integration for energy-recovered domestic hot water production. A detailed Bill of Quantities (BOQ) was prepared to support procurement and project execution",
+   "tags": ["HVAC", "VRV", "BIM", "LATS","Autocad", "BOQ"],
+    "images": [
+      "img/3d3-school.jpg",
+      "img/3d1-school.jpg",
+      "img/3d2-school.jpg",
+      "img/top view-school.jpg",
+      "img/lats-school.jpg",
+      "img/cl-school.jpg",
+      "img/annotation-school.jpg"
+    ]
+  },
+  {
+    "id": "villa-ksa-vrv",
+    "title": "Villa (KSA) — VRV System Design",
+    "short_description": "High-comfort residential VRV with energy efficiency",
+    "description": "The complete VRV system of a residential villa in Lebanon was designed, starting with detailed cooling load calculations for each room in accordance with ASHRAE standards. Based on these calculations, the appropriate fan coil units (FCUs) and air terminals were selected to ensure optimal thermal comfort and efficiency. Pipe and duct sizing were carried out following SMACNA and ASHRAE guidelines to minimize pressure losses and maintain balanced distribution. The design incorporated the latest VRF technology using a RefNet Branch Unit (RBU), which allows simultaneous operation of cooling and heating modes in different zones without additional energy consumption. Furthermore, a Hydrokit was integrated with the RBU to supply domestic hot water, utilizing the recovered energy from the system, thereby achieving water heating with zero additional energy input.",
+    "tags": ["HVAC", "VRV", "BIM" ,"HAP", "Renewable Energy"],
+    "images": [
+      "img/villa-3d1.jpg",
+      "img/villa-3d2.jpg",
+      "img/villa-1st.jpg",
+      "img/villa-2nd.jpg",
+      "img/villa-3rd.jpg"
+    ]
+  },
+  {
+    "id": "office-building-vrv",
+    "title": "Office Building — VRV System Design",
+    "short_description": "Commercial VRV design, zoning & coordination",
+    "description": "Designed the VRV system for an office building, performing cooling load calculations using HAP, selecting indoor unit types, capacities, and locations based on zoning requirements, and preparing detailed Revit layouts for ducts and piping ,all selections and system design were carried out using the LG VRF catalogue to ensure accuracy and compliance with manufacturer standards.",
+    "tags": ["HVAC", "VRV", "BIM" ,"Pipe Sizing" ,"HAP"],
+    "images": [
+      "img/office-3d.jpg",
+      "img/office-top.jpg",
+      "img/office-section.jpg",
+      "img/office-lats.jpg"
+
+    ]
+  },
+  {
+    "id": "family-design",
+    "title": "Family Design — FCU, Diffuser, Grille, Hanger",
+    "short_description": "Parametric Revit families for MEP components",
+    "description": "Created and standardized parametric Revit families for FCUs, diffusers, grilles, and hangers, including connectors, visibility settings, and schedules for consistent modeling and documentation.",
+    "tags": ["Family Design", "Revit", "BIM"],
+    "images": [
+      "img/fcu.jpg",
+      "img/diffuser.jpg",
+      "img/grille.jpg",
+      "img/hanger.jpg"
+
+      
+    ]
+  }
+  
+]

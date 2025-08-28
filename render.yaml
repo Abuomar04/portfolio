@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: my-php-website
+    env: docker
+    buildCommand: ""
+    startCommand: ""
